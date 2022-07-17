@@ -91,7 +91,7 @@ header {
 }
 .jumbotron {
   background-color: white;
-  height: 640px;
+  height: 680px;
   border-bottom: 0px solid white;
   box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
   background-size: cover;
@@ -145,8 +145,8 @@ header {
 .glitch {
   color: red;
   position: relative;
-  margin-top: -105px !important;
-  margin-left: 100px !important;
+  margin-top: -100px !important;
+  margin-left: 120px !important;
   font-weight: bold;
   font-size: 60px;
   margin: 70px 175px;
@@ -202,7 +202,7 @@ header {
   height: 300px;
   width: 290px;
   margin-left: 15px;
-  margin-right: 70px;
+  margin-right: 0px;
   margin-bottom: 30px;
   background-color: white;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
@@ -242,6 +242,16 @@ header {
   color: #fff;
   background: #6665ee;
 }
+.img-skills {
+  margin-top: 0px !;
+  margin-left: 0px;
+  margin-bottom: 00px;
+  height: 0px;
+  width: 0px;
+  display: none !important;
+  border-radius: 0px;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.5);
+}
 .skill-bars {
   margin-left: 0px;
   margin-bottom: 50px;
@@ -255,16 +265,7 @@ header {
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
 }
-.img-skills {
-  margin-top: 60px !;
-  margin-left: 560px;
-  margin-bottom: -00px;
-  height: 290px;
-  width: 470px;
-  display: none !important;
-  border-radius: 15px;
-  box-shadow: 15px 13px 0px 5px rgba(0, 0, 0, 0.5);
-}
+
 .skill-bars .bar {
   margin: 20px 0;
 }
