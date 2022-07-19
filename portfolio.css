@@ -107,10 +107,10 @@ header {
   line-height: 0px !important;
 }
 .photo {
-  height: 400px;
+  height: 375px;
   width: 345px;
   margin-left: 0px;
-  margin-top: -100px;
+  margin-top: -75px;
 }
 .text {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -955,6 +955,40 @@ header {
   }
   .card-img-top {
     border-radius: 15px 15px 0px 0px !important;
+  }
+  .text-link {
+    margin-top: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    color: red;
+    font-weight: bold;
+    border-bottom: 4px solid red;
+    width: 280px;
+    margin-bottom: 50px !important;
+  }
+  .text-website1 {
+    float: left;
+  }
+  .text-website2 {
+    float: left;
+  }
+  .text-website3 {
+    float: left;
+  }
+  .text-website4 {
+    float: left;
+  }
+  .text-website5 {
+    float: left;
+  }
+  .text-website6 {
+    float: left;
+  }
+  .text-website7 {
+    float: left;
+  }
+  .text-website8 {
+    float: left;
   }
   .text-service {
     margin-top: 150px;
